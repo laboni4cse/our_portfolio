@@ -1,0 +1,62 @@
+body h1, h2, h3, h4,h5, h6,p{
+	margin: 0px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.box_section{
+
+    padding: 100px 0;
+}
+.container{
+width: 1000px;
+margin: auto;
+
+overflow: hidden;
+
+
+}
+h2{
+    font-weight: 500;
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+.box1{
+	background-color: #b2bec347;
+   
+    width: 30%;
+    float: left;
+   
+ padding: 15px 20px;
+ margin: 10px;
+ border-radius: 3px;
+    box-sizing: border-box;
+
+}
+
+.section{    
+    width: 100%;
+float: left;
+padding: 100px 0;
+background-color: #80808038;
+overflow: hidden;
+    
+}
+
+.section h1{
+
+   text-align: center;
+   padding: 28px 0;
+}
+.bear img{
+    width:100%;
+    max-width: 100%;
+    object-fit: cover;
+}
+.bear{ 
+    width: 33%;
+  padding: 10px;
+   float: left;
+   box-sizing: border-box;
+   padding-bottom: 1px;
+
+}
